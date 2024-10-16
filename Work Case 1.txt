@@ -1,3 +1,0 @@
-git add report.docx
-git commit -m "Work Case 1"
-git push origin main
